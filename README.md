@@ -1,7 +1,7 @@
 # Title: python-tombo-book-downloader
 
 # Description
-  There is a public Portugues library called Tower of Tombo. 
+  There is a public Portuguese public library called Tower of Tombo. 
 In This library there are book I need to have acess. Lucky me, so of them are available online. 
 As soon as the hand written books get scaned and uploaded by the Tombo people, they are available for me to get them easily with python. 
 
